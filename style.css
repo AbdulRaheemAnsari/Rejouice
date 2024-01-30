@@ -1,10 +1,10 @@
 @font-face {
     font-family: js;
-    src: url(Rejouice-Headline.ttf);
+    src: url(Rejouice-Headline\ \(1\).woff2);
 }
 @font-face {
-    font-family: nb;
-    src: url(NB\ International\ Pro\ Light.otf);
+    font-family: NBPRO;
+    src: url(./NB\ International\ Pro\ Light.woff2);
 }
 
 *{
@@ -135,13 +135,13 @@ nav{
 }
 .page2-content1 p{
     font-size: 1.8vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 100;
     color: #3d3d3d;
 }
 .page2-content1 h4{
     font-size: 1.8vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 100;
     color: #3d3d3d;
 }
@@ -164,7 +164,7 @@ nav{
     display: none;
 }
 .page2-content2 h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 550;
     color: #0a0a0a;
     font-size: 4.2vw;
@@ -199,7 +199,7 @@ nav{
 }
 .page2-content3 h2{
     font-size: 4.4vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 500;
     text-align: center;
     color: #000;
@@ -236,11 +236,11 @@ nav{
     align-items: center;
 }
 .page3-content p{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 1.6vw;
 }
 .page3-content h4{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 1.5vw;
     font-weight: 500;
 }
@@ -355,7 +355,7 @@ nav{
 }
 .page3-content01 p{
     font-size: 1.8vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #3f3f3f;
 }
 
@@ -368,7 +368,7 @@ nav{
     /* background-color: #000; */
 }
 .page3-content2 h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 550;
     color: #0a0a0a;
     font-size: 4.2vw;
@@ -416,13 +416,13 @@ nav{
 .page4 h3{
     position: absolute;
     font-size: 4vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #fff;
 }
 .page4 p{
     position: absolute;
     font-size: 1.6vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #fff;
     margin-top: 8vh;
 }
@@ -449,7 +449,7 @@ nav{
 }
 .page5-content1 h4{
     font-size: 1.8vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #3f3f3f;
     font-weight: 500;
 }
@@ -465,7 +465,7 @@ nav{
     /* background-color: #000; */
 }
 .page5-content2 h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 550;
     color: #0a0a0a;
     font-size: 4.4vw;
@@ -545,7 +545,7 @@ nav{
 }
 .page6-content2 p{
     font-size: 1vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #3d3d3d;
     font-weight: 500;
     margin-bottom: 1vw;
@@ -553,7 +553,7 @@ nav{
 
 .page6-content2 h2{
     font-size: 4.4vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 500;
     text-align: center;
     color: #000;
@@ -640,7 +640,7 @@ nav{
     border: none;
     border: 1px solid #FFFCF1;
     border-radius: 6px;
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 1.2vw;
     cursor: pointer;
 }
@@ -657,7 +657,7 @@ nav{
     list-style: none;
 }
 .social-link ul li{
-    font-family: nb;
+    font-family: NBPRO;
     padding: 0.2vh 0;
     font-size: 1.1vw;
     font-weight: 600;
@@ -676,7 +676,7 @@ nav{
     justify-content: space-between;
 }
 .email p{
-    font-family: nb;
+    font-family: NBPRO;
     line-height: 20px;
     color: #FFFCF1;
 }
@@ -690,7 +690,7 @@ nav{
     align-items: flex-start;
 }
 .email-content p{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 1.1vw;
     color: #FFFCF1;
     cursor: pointer;
@@ -832,7 +832,7 @@ nav{
     /* border: 1px solid #7e4848; */
 }
 .right-content h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 3.4vw;
     font-weight: 500;
     color: #1a1a1a;
@@ -845,7 +845,7 @@ nav{
     border: 1px solid #1a1a1a;
     border-radius: 5px;
     font-size: 1.2vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #1a1a1a;
     margin-top: 8vh;
     margin-left: 0.8vw;
@@ -865,7 +865,7 @@ nav{
     align-items: center;
 }
 .menu-bottom p{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 1.2vw;
     color: #1a1a1a;
 }
@@ -880,7 +880,7 @@ nav{
     margin: 0;
 }
 .social-icon p{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 1vw;
     cursor: pointer;
 }
@@ -1031,7 +1031,7 @@ nav{
         padding-right: 2vw;
     }
     .page1-right p{
-        font-family: nb;
+        font-family: NBPRO;
         font-size: 4.5vw;
         color: #fff;
         padding-right: 3vw;
@@ -1095,13 +1095,13 @@ nav{
 }
 .page2-content1 p{
     font-size: 3.8vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 100;
     color: #0E0E0E;
 }
 .page2-content1 h4{
     font-size: 3.6vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 100;
     color: #0E0E0E;
 }
@@ -1117,7 +1117,7 @@ nav{
     /* background-color: #3d3d3d; */
 }
 .page2-contents3 h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 500;
     color: #0E0E0E;
     font-size: 7.2vw;
@@ -1156,7 +1156,7 @@ nav{
 }
 .page2-content3 h2{
     font-size: 14vw;
-    font-family: nb;
+    font-family: NBPRO;
     font-weight:600;
     text-align: center;
     color: #0E0E0E;
@@ -1184,12 +1184,12 @@ nav{
     align-items: center;
 }
 .page3-content p{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 3.4vw;
     color: #696969;
 }
 .page3-content h4{
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 3.4vw;
     font-weight: 500;
     color: #696969;
@@ -1213,7 +1213,7 @@ nav{
 }
 .page3-content01 p{
     font-size: 4vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #3f3f3f;
 }
 
@@ -1226,7 +1226,7 @@ nav{
     /* background-color: #888787; */
 }
 .page3-content3 h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 550;
     color: #0a0a0a;
     font-size: 7.2vw;
@@ -1310,13 +1310,13 @@ nav{
 .page4 h3{
     position: absolute;
     font-size: 10vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #fff;
 }
 .page4 p{
     position: absolute;
     font-size: 6vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #fff;
     font-weight: 500;
     margin-top: 8vh;
@@ -1347,7 +1347,7 @@ nav{
 }
 .page5-content1 h4{
     font-size: 4vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #3f3f3f;
     font-weight: 500;
 }
@@ -1366,7 +1366,7 @@ nav{
     /* background-color: #8a8686; */
 }
 .page5-content3 h1{
-    font-family: nb;
+    font-family: NBPRO;
     font-weight: 550;
     color: #0a0a0a;
     font-size: 7.2vw;
@@ -1444,7 +1444,7 @@ nav{
 }
 .page6-content2 p{
     font-size: 3.5vw;
-    font-family: nb;
+    font-family: NBPRO;
     color: #3d3d3d;
     font-weight: 500;
     margin-bottom: 1vw;
@@ -1492,7 +1492,7 @@ nav{
     padding: 2vw 0vw;
 }
 .page7-top h2{
-    font-family: nb;
+    font-family: NBPRO;
     color: #FFFCF1;
     /* font-weight: 600; */
     font-size: 7.4vw;
@@ -1504,7 +1504,7 @@ nav{
     border-radius: 30px;
     border: 1px solid #FFFCF1;
     color: #FFFCF1;
-    font-family: nb;
+    font-family: NBPRO;
     font-size: 3.2vw;
     margin-top: 3.2vh;
 }
